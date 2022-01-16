@@ -1,0 +1,7 @@
+name: Tutorial Plugin
+version: '${project.version}'
+main: grapeapplefruit.main.Main
+api-version: 1.18
+commands:
+  checkop:
+    description: Check if you're an operator or not.
